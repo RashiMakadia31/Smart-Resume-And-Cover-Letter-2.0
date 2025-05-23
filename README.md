@@ -75,7 +75,7 @@ streamlit run app.py
 
 ---
 
-## 🧪 Tech Stack
+## Tech Stack
 
 | Layer        | Technology                                   |
 | ------------ | -------------------------------------------- |
