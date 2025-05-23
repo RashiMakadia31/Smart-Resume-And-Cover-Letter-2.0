@@ -1,8 +1,3 @@
-Here’s a sample `README.md` tailored for your **"Smart Resume & Cover Letter Generator Agent"** project using the **Mistral model via llama-cpp-python** and **LangChain**:
-
----
-
-```markdown
 # Smart Resume & Cover Letter Generator Agent
 
 An end-to-end AI assistant that analyzes your resume and job description to generate:
